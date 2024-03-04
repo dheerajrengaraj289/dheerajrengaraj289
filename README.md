@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dheerajrengaraj289
 - 👀 I’m a data analyst.
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on new projects and volunteers.
+- 💞️ I’m looking to collaborate on new projects and volunteer.
 - 📫 How to reach me : dheeraj.rengaraj@gmail.com
 
 <!---
